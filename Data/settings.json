@@ -1,0 +1,11 @@
+{
+  "graphics": {
+    "qualityLevelIndex": 0,
+    "screenResWidth": 1920,
+    "screenResHeight": 1080,
+    "screenMode": 0
+  },
+  "world": {
+    "isSnowing": true
+  }
+}
